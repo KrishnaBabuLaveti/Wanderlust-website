@@ -67,5 +67,5 @@ app.use((err,req,res,next) => {
 
 
 app.listen(8080,()=>{
-    console.log("app is listening to requests  ");
+    console.log("app is listening to requests");
 });
